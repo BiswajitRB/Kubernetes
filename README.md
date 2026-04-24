@@ -15,7 +15,7 @@ It helps demonstrate practical DevOps skills using:
 
 ---
 
-## 🏗 Kind Logo
+## 🏗 Using Kind 
 
 ![Kind Logo](https://kind.sigs.k8s.io/logo/logo.png)
 
