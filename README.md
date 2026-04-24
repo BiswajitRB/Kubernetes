@@ -1,2 +1,30 @@
-# Kubernetes
-Kubernetes practice repository using Kind (Kubernetes in Docker) for deploying and managing applications with YAML manifests. Includes Namespace, Deployment, Service, ConfigMap, kubectl commands, architecture, and troubleshooting. Demonstrates hands-on skills in Kubernetes, Docker, and cluster management.
+# ☸️ Kubernetes Practice Repository
+
+![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
+
+This repository contains Kubernetes YAML files for deploying applications using **Kind (Kubernetes in Docker)**.
+
+It helps demonstrate practical DevOps skills using:
+
+- Kubernetes
+- Kind
+- Docker
+- kubectl
+- YAML
+- GitHub
+
+---
+
+# 📁 Repository Structure
+
+```text
+k8s-practice/
+│
+├── namespace.yaml
+├── deployment.yaml
+├── service.yaml
+├── configmap.yaml
+│
+├── README.md
+│
+└── screenshots/
