@@ -44,6 +44,12 @@ It is useful for:
 - DevOps project demonstrations
 
 ---
+## ⚙️ Commands to Run with Kind
+
+### 1️⃣ Install Kind
+
+```bash
+go install sigs.k8s.io/kind@latest
 
 ## 📁 Repository Structure
 
