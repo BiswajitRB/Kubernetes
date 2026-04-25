@@ -48,13 +48,20 @@ It is useful for:
 ## 📁 Repository Structure
 
 ```text
-k8s-practice/
+k8s/
 │
-├── namespace.yaml
-├── deployment.yaml
-├── service.yaml
-├── configmap.yaml
+├── nginx/
 │
-├── README.md
+├── portfolio/
 │
-└── screenshots/
+├── deployment.yml
+│
+├── namespace.yml
+│
+├── pod-portfolio.yml
+│
+├── pod-config.yml
+│
+├── kind-config.yml
+│
+└── README.md
